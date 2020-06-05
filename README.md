@@ -17,8 +17,9 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pelo Institut
 * [Medium](https://medium.com/@paulotarsobranco)
 
 
-## Projetos:
+## Projects:
 
+* **New York Airbnb Analysis** - https://bit.ly/3dCBYpp
 
 
 
