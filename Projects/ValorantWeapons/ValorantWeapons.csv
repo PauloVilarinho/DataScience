@@ -1,4 +1,4 @@
-name,type,price,fire-rate,bullets-ammount,wall-pen,magazine,head-dmg-close,body-dmg-close,leg-dmg-close,head-dmg-medium,body-dmg-medium,leg-dmg-medium,head-dmg-long,body-dmg-long,leg-dmg-long
+name,type,price,fire-rate,bullets-amount,wall-pen,magazine,head-dmg-close,body-dmg-close,leg-dmg-close,head-dmg-medium,body-dmg-medium,leg-dmg-medium,head-dmg-long,body-dmg-long,leg-dmg-long
 classic,sidearm,0,6.75,1,low,12,78,26,22,78,26,22,66,22,18
 shorty,sidearm,200,3.3,15,low,2,36,12,10,24,8,6,9,3,2
 frenzy,sidearm,400,10,1,low,13,78,26,22,63,21,17,63,21,17
