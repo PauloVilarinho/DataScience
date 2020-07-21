@@ -20,7 +20,7 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pelo Institut
 ## Projects:
 
 * **New York Airbnb Analysis** - https://bit.ly/3dCBYpp
-
+* **Análise Covid 19** -https://bit.ly/2WJ3wDg
 
 
 
